@@ -1,4 +1,4 @@
-# 💫 Hello:I am Praveen Kumar Jayswal ,
+# 💫 Praveen Kumar Jayswal ,
 Hello, I am Praveen Kumar Jayswal , an aspiring student with a strong passion for crafting exceptional digital experiences. Currently pursuing a BTech in Computer Engineering at RGPV Bhopal.<br><br>I'm honing my skills in Full Stack Web Development and UI/UX design. Proficient in HTML, CSS, JavaScript, React.js and Figma. Through my BTech program, I'm developing a strong foundation in data structure, Oops while actively exploring languages like C,C+ +,Python,js.<br><br>Seeking a challenging role to apply my technical skills and design sensibilities in creating user-centric digital solutions. Eager to explore the intersection of technology and human-centered design. I'm passionate about building intuitive and visually appealing digital products. Seeking opportunities to contribute to innovative projects and learn from industry experts.
 
 
